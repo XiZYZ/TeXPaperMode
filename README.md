@@ -1,0 +1,2 @@
+# TexPaperMode
+ Latex
